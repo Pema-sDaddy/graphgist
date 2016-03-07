@@ -6,7 +6,7 @@ For the live site, go to [The GraphGists](http://gist.neo4j.org/).
 For a loose collection of cool Gists, see [the GraphGist Collection](https://github.com/neo4j-contrib/graphgist/wiki).
 
 Building
------------
+--------
 
     git clone git@github.com:neo4j-contrib/graphgist.git
     cd graphgist
