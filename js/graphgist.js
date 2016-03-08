@@ -40,7 +40,8 @@ function GraphGist($) {
   var ASCIIDOCTOR_OPTIONS = Opal.hash('attributes', ['notitle!',
     'env-graphgist'
   ], 'attribute-missing', 'drop');
-  var DEFAULT_SOURCE = 'Home';
+  var DEFAULT_SOURCE =
+    'github-CliffordAnderson/graphgist/contents/gists/home.adoc'
   var $VISUALIZATION_ICONS = $(
     '<div class="visualization-icons"><i class="icon-fullscreen fullscreen-icon" title="Toggle fullscreen mode"></i></div>'
   );
@@ -179,8 +180,9 @@ function GraphGist($) {
   }
 
   function formUrl(url, title, author, twitter) {
-    return 'https://docs.google.com/forms/d/1blgZoRZ6vLbpnqdJx3b5c4BkO_mgmD-hgdRQTMm7kc4/viewform?entry.718349727=' +
-    encodeURIComponent(url) + '&entry.1981612324=' + encodeURIComponent(title
+    return
+      'https://docs.google.com/forms/d/1blgZoRZ6vLbpnqdJx3b5c4BkO_mgmD-hgdRQTMm7kc4/viewform?entry.718349727=' +
+      encodeURIComponent(url) + '&entry.1981612324=' + encodeURIComponent(title
         .length > 18 ? title.substr(0, title.length - 18) : title) +
       '&entry.1328778537=' + encodeURIComponent(author) + '&entry.507462214=' +
       encodeURIComponent(twitter);
