@@ -5,7 +5,7 @@
 :twitter: @andersoncliffb
 :tags: domain:example
 
-These are a collection of GraphGists from various projects at the Vanderbilt University Library.
+These are a collection of GraphGists from various projects at the [Vanderbilt University Library](http://www.library.vanderbilt.edu/).
 http://neo4j.com[Neo4j] GraphGists are a convenient way to create and share documents containing not just prose, structure 
 and pictures but most importantly **example graph models and use-cases** expressed in Neo4j's query language http://docs.neo4j.org/refcard/2.1/[Cypher].
 
