@@ -13,7 +13,7 @@ These documents are written in AsciiDoc -- the simple, textual markup language -
 
 === List of our Gists ===
 
-//  * link:?github-HeardLibrary%2Fgraphgist%2F%2Fgists%2Fartists-books.adoc
+* link:./?github-HeardLibrary%2Fgraphgist%2F%2Fgists%2Fartists-books.adoc
 
 === Setup a Graph to show you and your Likes
 
@@ -44,5 +44,5 @@ NOTE: This document is a GraphGist itself, so you can use the green https://gith
 
 We'd love to get your feedback, so feel free to write us at *docs at neo4j.org* or comment in the section below.
 
-// * link:./?github-neo4j-contrib%2Fgists%2F%2Fmeta%2FSimple.adoc[A simple GraphGist]
-// * link:./?github-neo4j-contrib%2Fgists%2F%2Fmeta%2FHowTo.adoc[How to create a GraphGist]
+ * link:./?github-neo4j-contrib%2Fgists%2F%2Fmeta%2FSimple.adoc[A simple GraphGist]
+ * link:./?github-neo4j-contrib%2Fgists%2F%2Fmeta%2FHowTo.adoc[How to create a GraphGist]
