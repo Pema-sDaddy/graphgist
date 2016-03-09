@@ -41,7 +41,7 @@ function GraphGist($) {
     'env-graphgist'
   ], 'attribute-missing', 'drop');
   var DEFAULT_SOURCE =
-    'github-CliffordAnderson/graphgist/contents/gists/home.adoc'
+    'github-HeardLibrary/graphgist/contents/gists/home.adoc'
   var $VISUALIZATION_ICONS = $(
     '<div class="visualization-icons"><i class="icon-fullscreen fullscreen-icon" title="Toggle fullscreen mode"></i></div>'
   );
