@@ -23,7 +23,7 @@ html, html body {
 }
 
 .navbar .brand {
-    padding: 2px 14px 2px 8px;
+    padding: 12px 14px 2px 8px;
     font-family: 'OfficinaSerifStd-Bold', 'Baskerville', 'Cambria', 'Constantia', 'Palatino Linotype', 'Palatino', 'Georgia', 'Times', 'Times New Roman', serif;
     font-weight: bold;
 }
