@@ -6,7 +6,7 @@
 :tags: domain:example
 
 These are a collection of GraphGists from various projects at the http://www.library.vanderbilt.edu/[Vanderbilt University Library].
-http://neo4j.com[Neo4j] GraphGists are a convenient way to create and share documents containing not just prose, structure 
+http://neo4j.com[Neo4j] GraphGists are a convenient way to create and share documents containing not just prose, structure
 and pictures but most importantly **example graph models and use-cases** expressed in Neo4j's query language http://docs.neo4j.org/refcard/2.1/[Cypher].
 
 These documents are written in AsciiDoc -- the simple, textual markup language -- and rendered in your browser as rich and interactive web pages that you can quickly evolve from describing simple howtos or questions to providing an extensive use-case specification.
@@ -14,6 +14,7 @@ These documents are written in AsciiDoc -- the simple, textual markup language -
 === List of our Gists ===
 
 * link:./?github-HeardLibrary%2Fgraphgist%2F%2Fgists%2Fartists-books.adoc[Artists Books]
+*http://heardlibrary.github.io/graphgist/?2d0c49d816987ba58c5b[The Epistolary Correspondence of Flannery O'Connor]
 
 === Setup a Graph to show you and your Likes
 
