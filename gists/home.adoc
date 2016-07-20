@@ -46,4 +46,8 @@ And render as a table.
 
 //table
 
+Here's a http://heardlibrary.github.io/workshops/tech/2016/06/01/graphgists.html[tutorial] that will help you get started. 
+
+
+
 NOTE: This document is a GraphGist itself, so you can use the green https://github.com/neo4j-contrib/gists/blob/master/meta/Home.adoc[Page Source] button on top of the page to see the original AsciiDoc document.
