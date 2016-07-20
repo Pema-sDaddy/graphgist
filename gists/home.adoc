@@ -18,6 +18,7 @@ These documents are written in AsciiDoc -- the simple, textual markup language -
 
 * http://heardlibrary.github.io/graphgist/?ce41776583e38cf47707/[Artists Books]
 * http://heardlibrary.github.io/graphgist/?2d0c49d816987ba58c5b/[The Epistolary Correspondence of Flannery O'Connor]
+* http://heardlibrary.github.io/graphgist/?2d0c49d816987ba58c5b/[The Vane Sisters]
 
 === Setup a Graph to show you and your Likes
 
