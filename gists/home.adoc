@@ -11,9 +11,12 @@ and pictures but most importantly **example graph models and use-cases** express
 
 These documents are written in AsciiDoc -- the simple, textual markup language -- and rendered in your browser as rich and interactive web pages that you can quickly evolve from describing simple howtos or questions to providing an extensive use-case specification.
 
+
+ 
+
 === List of our Gists ===
 
- http://heardlibrary.github.io/graphgist/?2d0c49d816987ba58c5b [The Epistolary Correspondence of Flannery O'Connor]
+http://heardlibrary.github.io/graphgist/?2d0c49d816987ba58c5b/[The Epistolary Correspondence of Flannery O'Connor]
 
 === Setup a Graph to show you and your Likes
 
