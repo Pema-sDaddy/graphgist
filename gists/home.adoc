@@ -1,11 +1,11 @@
 = What is the Neo4j GraphGist Project? =
 
 :neo4j-version: 2.1.0
-:author: Clifford Anderson
+:author: Fred Flintstone
 :twitter: @andersoncliffb
 :tags: domain:example
 
-These are a collection of GraphGists from various projects at the http://www.library.vanderbilt.edu/[Vanderbilt University Library].
+These are a group of GraphGists from various projects at the http://www.library.vanderbilt.edu/[Vanderbilt University Library].
 http://neo4j.com[Neo4j] GraphGists are a convenient way to create and share documents containing not just prose, structure
 and pictures but most importantly **example graph models and use-cases** expressed in Neo4j's query language http://docs.neo4j.org/refcard/2.1/[Cypher].
 
