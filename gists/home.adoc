@@ -5,7 +5,7 @@
 :twitter: @andersoncliffb
 :tags: domain:example
 
-These are a group of GraphGists from various projects at the http://www.library.vanderbilt.edu/[Vanderbilt University Library].
+I have forked this page from the http://www.library.vanderbilt.edu/[Vanderbilt University Library] Github site.  Dr. Clifford Anderson, Director of Scholarly Communications provided me with the technical know-how to do this.  In fact, he did 90% of the work.  
 http://neo4j.com[Neo4j] GraphGists are a convenient way to create and share documents containing not just prose, structure
 and pictures but most importantly **example graph models and use-cases** expressed in Neo4j's query language http://docs.neo4j.org/refcard/2.1/[Cypher].
 
@@ -14,14 +14,16 @@ These documents are written in AsciiDoc -- the simple, textual markup language -
 
  
 
-=== List of our Gists ===
+=== Here are some Graph Gists that have been done at the Heard Library at Vanderbilt University. ===
 
 * http://heardlibrary.github.io/graphgist/?ce41776583e38cf47707/[Artists Books]
 * http://heardlibrary.github.io/graphgist/?2d0c49d816987ba58c5b/[The Epistolary Correspondence of Flannery O'Connor]
 * http://heardlibrary.github.io/graphgist/?3b209f033ab19c0bd876/[The Vane Sisters]
 * https://gist.github.com/suellenstringer-hye/3775cf12f473866affcf/[The Life You Save May Be Your Own]
 
-=== Setup a Graph to show you and your Likes
+=== Here's how it works: ===
+
+=== 1.  Setup a Graph to show you and your Likes
 
 //setup
 [source,cypher]
@@ -34,7 +36,7 @@ And render as a graph.
 
 //graph
 
-=== Now query the graph to show all the things you like
+=== 2.  Now query the graph to show all the things you like
 
 [source,cypher]
 ----
