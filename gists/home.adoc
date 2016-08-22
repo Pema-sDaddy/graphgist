@@ -5,7 +5,7 @@
 :twitter: @andersoncliffb
 :tags: domain:example
 
-I have forked this page from the http://www.library.vanderbilt.edu/[Vanderbilt University Library] Github site.  Dr. Clifford Anderson, Director of Scholarly Communications provided me with the technical know-how to do this.  In fact, he did 90% of the work.  
+I have forked this page from the http://www.library.vanderbilt.edu/[Vanderbilt University Library] Github site.  Dr. Clifford Anderson, Director of Scholarly Communications, provided me with the technical know-how to do this.  In fact, he did 90% of the work.  
 http://neo4j.com[Neo4j] GraphGists are a convenient way to create and share documents containing not just prose, structure
 and pictures but most importantly **example graph models and use-cases** expressed in Neo4j's query language http://docs.neo4j.org/refcard/2.1/[Cypher].
 
